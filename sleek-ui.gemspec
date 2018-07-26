@@ -6,12 +6,12 @@ require "sleek/ui/version"
 Gem::Specification.new do |spec|
   spec.name          = "sleek-ui"
   spec.version       = Sleek::Ui::VERSION
-  spec.authors       = ["Nithin Raj"]
+  spec.authors       = ["Nithin Raj", "R Arvind"]
   spec.email         = ["nithin.raj@iiitb.org"]
 
-  spec.summary       = 
-  spec.description   = 
-  spec.homepage      = 
+  spec.summary       = "A CSS framework to make your Rails website look awesome!"
+  spec.description   = "To start using Sleek, refer to the documentation."
+  spec.homepage      = "https://github.com/nithinr07/Sleek-UI"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

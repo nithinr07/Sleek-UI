@@ -2,6 +2,7 @@ require "sleek/ui/version"
 
 module Sleek
   module Ui
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
